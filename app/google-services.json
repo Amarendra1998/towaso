@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "471686156839",
+    "firebase_url": "https://mytowaso.firebaseio.com",
+    "project_id": "mytowaso",
+    "storage_bucket": "mytowaso.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471686156839:android:3b8687772ca8f523",
+        "android_client_info": {
+          "package_name": "com.example.admin.towaso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471686156839-1i19hi7j3t8pp19m0belj235fne0j254.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin.towaso",
+            "certificate_hash": "8b7c0efcbcc33cd763b9e940e648d7d88aae1ca6"
+          }
+        },
+        {
+          "client_id": "471686156839-c7neereun01p8rc190cv0f65rflhckl2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8iNB8V-c2XZwzS8G-AKgPzuAVnslxEUE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471686156839-c7neereun01p8rc190cv0f65rflhckl2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
